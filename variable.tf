@@ -34,6 +34,4 @@ variable "zone" {
   default = "us-south-1"
 }
 
-variable "version" {
-  default = "1.18.0"
-}
+
